@@ -8,7 +8,7 @@
 
 
 # Objectives:-
--> Understand the role of **ColumnTransformer** in data preprocessing  
+-> Understand the role of "ColumnTransformer" in data preprocessing  
 -> Compare manual preprocessing vs. ColumnTransformer approach  
 -> Learn how to combine "StandardScaler" and "OneHotEncoder" in one step  
 -> Prepare data efficiently for machine learning models  
@@ -23,7 +23,7 @@
 
 
 # Dataset:-
--> A dataset containing both **numerical** and **categorical** columns was used to demonstrate how to process each type of feature correctly before model training.
+-> A dataset containing both "numerical" and "categorical" columns was used to demonstrate how to process each type of feature correctly before model training.
 
 
 # Implementation Steps
@@ -40,7 +40,7 @@
 
 # Key Observations:-
 -> Manual preprocessing is repetitive and prone to errors.  
--> ColumnTransformer makes preprocessing **clean, scalable, and reusable**.  
+-> ColumnTransformer makes preprocessing "clean, scalable, and reusable".  
 -> It’s essential for real-world ML pipelines and model deployment.  
 
 
