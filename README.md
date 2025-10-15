@@ -1,4 +1,4 @@
-## ColumnTransformer in Machine Learning ##
+## Column-Transformer in Machine Learning ##
 
 # Overview:-
 -> This project demonstrates how to apply "multiple preprocessing steps" — such as "scaling numerical features" and "encoding categorical features" — using the "ColumnTransformer" in          Scikit-learn.  
